@@ -6,4 +6,4 @@ This is where you will find the shareable code for Mr. Dillon's Intro to Compute
 2. Refrigerator Lab
 
 ## Unit 2: Introduction to Pyton
-1. [Efficiency Lab] (https://github.com/JimmyDillon-CS/EfficiencyLab)
+1. [Efficiency Lab](https://github.com/JimmyDillon-CS/EfficiencyLab)
