@@ -7,3 +7,6 @@ This is where you will find the shareable code for Mr. Dillon's Intro to Compute
 
 ## Unit 2: Introduction to Pyton
 1. [Efficiency Lab](https://github.com/JimmyDillon-CS/EfficiencyLab)
+
+## Unit 3: Strings and Lists
+1. [rot13 Lab](https://example.com)
