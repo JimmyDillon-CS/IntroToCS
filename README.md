@@ -11,3 +11,6 @@ This is where you will find the shareable code for Mr. Dillon's Intro to Compute
 ## Unit 3: Strings and Lists
 1. [rot13 Lab](https://github.com/JimmyDillon-CS/rot13)
 2. [List Lab](https://github.com/JimmyDillon-CS/list_lab)
+
+## Unit 4: Data Analysis
+1. [Rank Choice Voting](https://github.com/JimmyDillon-CS/rank_choice)
