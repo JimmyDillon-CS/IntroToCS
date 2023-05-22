@@ -14,3 +14,4 @@ This is where you will find the shareable code for Mr. Dillon's Intro to Compute
 
 ## Unit 4: Data Analysis
 1. [Rank Choice Voting](https://github.com/JimmyDillon-CS/rank_choice)
+2. [CSV Lab](https://github.com/JimmyDillon-CS/csv_lab)
